@@ -1,13 +1,13 @@
-<img src='/img/logo.png' alt='logo da empresa' width='50px' heidth='50px'/>
+<img src='/img/logo.JPEG' alt='logo da empresa' width='50px' heidth='50px'/>
 
-# *FIBONACCI MANAGEMENT SYSTEM*
+# *AmericanStark*
 
 # PROJETO DE SOFTWARE
 
 ## *Stakeholders*
 |NOME|CARGO|E-MAIL|
 |:---|:---|:---|
-|Beatriz Rochha Oliveira Gerente beatriz.braesp@gmail.com|
+|Beatriz Rochha Oliveira|Gerente|beatriz.braesp@gmail.com|
 
 # Sumário
 
