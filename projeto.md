@@ -8,6 +8,7 @@
 |NOME|CARGO|E-MAIL|
 |:---|:---|:---|
 |Beatriz Rochha Oliveira|Gerente|beatriz.braesp@gmail.com|
+|Dafelli Kauani Bonazzi Pinto|Roterista|@dafellikauani@gmail.com|
 
 # Sumário
 
