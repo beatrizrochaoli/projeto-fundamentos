@@ -56,31 +56,23 @@
 
 ## PROPÓSITO DESTE DOCUMENTO
 
-Este documento destina-se aos clientes, engenheiros, gerentes e demais stakeholders deste projeto. O propósito deste documento é apresentar a descrição dos serviços e funções que o sistema **_AmericanStark
-_** deve prover, bem como as suas restrições de operação e propriedades gerais, a fim de ilustrar uma descrição detalhada do sistema para um auxílio durante as etapas de análise, projeto e testes. O documento especifica todos os requisitos funcionais e não funcionais do sistema e contém a prototipagem, além de diagramas UML que foram construídos levando-se em conta as funcionalidades identificadas durante a fase de concepção do sistema.
-
+Este documento é destinado a avalição do professor sobre nossa evolução enquanto grupo. O propósito deste documento é apresentar a descrição dos serviços e funções que o sistema **_AmericanStark
+_** deve prover, bem como as suas restrições de operação e propriedades gerais, a fim de documetar uma descrição detalhada do sistema para um crescimento das etapas de análise do projeto. O documento especifica todos os requisitos funcionais e não funcionais do sistema.
 ## CONCEPÇÃO DO SISTEMA
 
-Foram usados três métodos para que pudessem ser obtidos os requisitos do sistema:
-* Entrevista:
-  * Discussões individuais de um representante da equipe com José de Arimatéia, diretor da Escola Fibonacci.
-* Consulta com especialista:
-  * Gustavo, coordenador de pós-graduação do curso de Ciências Contábeis da Universidade Federal orientou na concepção do sistema devido sua experiência em trabalhar em cursos semipresenciais e ser um dos consultores da empresa;
-  * Alex Sandro Gomes, professor do Centro de Informática da Universidade Federal orientou na análise de requisitos devido a sua grande experiência em desenvolvimento de software educativo;
-  * Silvio Zanchetti, coordenador do curso on-line ITUC/AL, foi outro entrevistado;
-  * Manasses dos Santos Silva, responsável pelo treinamento dos funcionários do laboratório HEXAL BRASIL.
-* Prototipação:
-  * Representações das interfaces gráficas com diferentes níveis de fidelidade, aprovadas pela empresa contratante.
-
-
+Foram usados métodos para que pudessem ser obtidos os requisitos do sistema:
+  * Foram feitas reuniões entre nós 4 sobre o andamento da nossa loja.
+*   Foram feitas consultas em outros sites semlhantes ao que pretendemos fazer.
+  * Wagner da Silva Ferreira Filho professor do curso de Informática do Instituto Federal de Educação, Ciências e Tecnologia foi de acordo com nossa ideia de contrução de projeto, nó impulsionou e nos deu total apoio durante todo o processo;
+  * Criação da logo da nossa loja, dando cara ao nosso projeto, que está ganhando forma;
 
 ## CONVENÇÕES, TERMOS E ABREVIAÇÕES
 
-Para evitar interpretações incorretas deste documento, algumas convenções e termos específicos são descritos a seguir:
+*Para evitar interpretações incorretas deste documento, algumas convenções e termos específicos são descritos a seguir:
 
-* EaD: Eaducação a Distância
+* Utilizamos o AVA Ambiente Virtual de Aprendizagem como instrutor de passos a serem seguidos na matéria de Fundamentos de Ánalise;
 * Moodle: Ambiente Virtual que hospedará os cursos oferecidos
-* Exame Final: Avaliação destinada aos estudantes que obtiveram média anual inferior à 60 pontos
+
 
 [ [INÍCIO](#fibonacci-management-system) ]
 
@@ -90,15 +82,17 @@ Para evitar interpretações incorretas deste documento, algumas convenções e 
 
 ### NO ESCOPO
 
-O projeto consiste na construção de uma ferramenta para gerenciamento de aprendizado *(Learning Management System - LMS)*, que possa atender os requisitos da Escola Fibonacci, no fator de educação à distância. O projeto visa auxiliar o sistema de ensino através de ferramentas síncronas e assíncronas que serão usadas por funcionários e alunos da instituição de ensino.
-O escopo do **produto** pode ser consultado nos [requisitos do software](#requisitos-do-software)
+O projeto desse grupo é nos colocar dentro do mercado de trabalho em quanto empresa de fabricação de roupas a todas as pessoas, as que moram na nossa cidade e as que moram fora dela também. Temos como visão proporcionar enteração de grupo de pessoas que tem interesses comuns em filmes da marvel.
+
+O escopo do **AmericanStark** pode ser consultado no documento anexado no gitHub.
+
 
 ### FORA DO ESCOPO
 
 Não fazem parte do escopo do projeto:
-* Instalação e configuração do ambiente tecnológico do cliente;
-* Treinamento de instalação, configuração, administração e  utilização do sistema;
-* Integração com quaisquer sistemas ou base de dados do ambiente tecnológico do cliente.
+* Interações com outros sites semelhantes.
+* Atualições novas repentidamentes em todas as semanas.
+* Outras roupas além da qual propometemos.
 
 ## Usuários do sistema
 |USUÁRIO|DESCRIÇÃO|
