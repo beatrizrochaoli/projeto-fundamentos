@@ -218,16 +218,17 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 
 | IDENTIFICADOR | NOME | DESCRIÇÃO |
 |:---|:---|:---|
-|RNF-001 |Nome do Requisito |Descreva aqui as informações sobre o requisito |
-|RNF-002 |Nome do Requisito |Descreva aqui as informações sobre o segundo requisito |
-|RNF-003 |Nome do Requisito |Descreva aqui as informações sobre o segundo requisito |
-|RNF-004 |Nome do Requisito |Descreva aqui as informações sobre o segundo requisito |
-|RNF-005 |Nome do Requisito |Descreva aqui as informações sobre o segundo requisito |
-|RNF-006 |Nome do Requisito |Descreva aqui as informações sobre o segundo requisito |
-|RNF-007 |Nome do Requisito |Descreva aqui as informações sobre o segundo requisito |
-|RNF-008 |Nome do Requisito |Descreva aqui as informações sobre o segundo requisito |
-|RNF-009 |Nome do Requisito |Descreva aqui as informações sobre o segundo requisito |
-|RNF-010 |Nome do Requisito |Descreva aqui as informações sobre o segundo requisito |
+RNF-001|Finalizar o pagamento|O usuário só pode comprar os produtos se ele colocar todos os dados dele de cadastro|
+RNF-002|Devolução|A nossa empresa só poderá fazer a devolução após a data da entrega e o usuário cadastrar os seus dados|
+RNF-003|Entregar|Só poderemos entregar o produto depois que o pagamento for aprovado|
+RNF-004|Tranporte de entrega de tecidos|Nossos  transportadores só serão mandado para a entrega  depois do tecido estar no porto de retirada|
+RNF-005|Forma de pagamento|A compra só poderá ser finalizada depois de o cliente selecionar a forma de pagamento|
+RNF-006|Selecionar o produto|Só poderá ir para o carrinho depois de selecionar o produto|
+RNF-007|Desenvolvimento do produto|Somente os funcionários poderão ter acesso aos designers das roupas depois delas estarem garimpadas com os seus desenhos|
+RNF-008|Contrato dos funcionários|Os vendedores só terão férias depois de um ano de contrato concluído |
+RNF-009|Indentificação dos produtos |Os vendedores só poderão vender as roupas depois de elas estarem codificadas e etiquetadas|
+RNF-010|Material de estoque|Só poderemos vender se tivermos a roupa e o tecido no estoque|
+
 [ [INÍCIO](#fibonacci-management-system) ]
 
 
