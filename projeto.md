@@ -182,8 +182,35 @@ A tabela a seguir contém a relação dos Requisitos Funcionais elicitados, com 
 
 | IDENTIFICADOR | NOME | DESCRIÇÃO |
 :---|:---|:---|
-|RF-001 |Nome do Requisito | Descreva aqui as informações sobre o requisito |
-|RF-002 | Nome do Requisito | Descreva aqui as informações sobre o segundo requisito |
+|RF-001 |Comercializar nossas roupas |Pretendemos vender nossas roupas com personagens da Marvel, pretendemos vender blusas, moletons e etc|
+|RF-002 |Expandir as vendas para todo lugar no Brasil |Queremos expandir para todo o Brasil nossa sroupas utilizando meios de transportes viavéis|
+|RF-003 |Fazer marketing para alavancar nossas vendas |Através de anúncios e propagandas queremos entregar, para um maior público tanto de forma presencial, quanto online|
+|RF-004 |Produzir e caracterizar designers |Queremos fazer nossas próprias roupas de maneira autoral|
+|RF-005 |Importar tecidos |Queremos vender nossas roupas para fora da nossa cidade e estado, queremos comercializar de forma geral, para alcançar todo o país|
+|RF-006 |Alavancar nosso site em diversas plataformas |Temos com um objetivo vender nossos produtos de (os forma online) na Shoope, Aliexpress, Americanas, Submarino, Mercado Livre e shein|
+|RF-007 |Cadastrar funcionários |Como nossa empresa será uma empresa de grande porte, temos que contratar vários funcionários e para isso teremos que ter seus dados cadastrados na nossa loja| 
+|RF-008 |Ter um cadastro geral dos clientes |Devemos ter um cadastro guardando todas as informções do cliente que fizer compra, em nossas lojas virtuais|
+|RF-009 |Cadastrar tecidos|Teremos que ter um cadastro de tecidos, porque naõ iremos fabrica - los, mas importa -los de outro lugar|
+|RF-010 |Criar códigos de barra|Como cada item tem sua própria codificação, também teremos que criar códigos próprios para cada roupa|
+|RF-011 |Ter o controle de roupas prontas |Teremos que saber a quantidade de roupas ja fabricadas, para sabermos quanto que ainda teremos que fazer e para outros fins também|
+|RF-012 |Cadastrar e fazer controle dos transportes no Brasil |Queremos cadastrar as empresas que farão os trasportes e envios tanto das lojas presenciais quanto para os que serão entregues direto para os clientes e assim ter um controle desses|
+|RF-013 |Cadastrar e fazer controle de importação de tecidos ( transporte aereos)|Como importaremos nosso tecidos, teremos que ter os dados deles, tanto os dados da empresa área que for trazer|
+|RF-014 |Controlar e mapear as entregas dos nossos produtos Como iremos entregar nossos produtos (os de forma online) direto pra os clientes teremos que ter o mapeamento e controle das rotas para cada lugar pra saber como está indo o andamentos das entregas|
+|RF-015 |Controlar férias e remuneração dos funcionários |Teremos que ter os dados de cada funicinário para sabermos de suas férias e caso alguns deles fizerem horas extras terem suas remunerações corretas|
+|RF-016 |Comprar materiais necessários |Teremos que saber o que tem e o que precisa ser comprado para a manuntenção da produção das roupas e da fábrica|
+|RF-017 |Controlar e administrar o financeiro da loja/empresa|Teremos que ter o controle para podermos para administrar nossa empresa de forma certa esegura e honesta. Saber o que sai e o que entra, etc|
+|RF-018 |Proporcionar estágios |Queremos ter um prjeto que possibilita estágios, para as pessoas que estiverem interessadas|
+|RF-019 |Proporcionar projetos de interação da equipe(toda) |Queremos poder proporcionar momentos de comunhão com toda a equipe envolvida|
+|RF-020 |Formas de pagamento|Tanto as lojas presenciais, tanto as onlines queremos poder oferecer todos os tipos viavéis de pagamento sendo eles: cartão de crédito e débito, pix, boleto ou á vista também|
+
+
+
+
+
+
+
+
+
 
 
 ## Requisitos Não Funcionais
@@ -193,8 +220,14 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 |:---|:---|:---|
 |RNF-001 |Nome do Requisito |Descreva aqui as informações sobre o requisito |
 |RNF-002 |Nome do Requisito |Descreva aqui as informações sobre o segundo requisito |
-
-
+|RNF-003 |Nome do Requisito |Descreva aqui as informações sobre o segundo requisito |
+|RNF-004 |Nome do Requisito |Descreva aqui as informações sobre o segundo requisito |
+|RNF-005 |Nome do Requisito |Descreva aqui as informações sobre o segundo requisito |
+|RNF-006 |Nome do Requisito |Descreva aqui as informações sobre o segundo requisito |
+|RNF-007 |Nome do Requisito |Descreva aqui as informações sobre o segundo requisito |
+|RNF-008 |Nome do Requisito |Descreva aqui as informações sobre o segundo requisito |
+|RNF-009 |Nome do Requisito |Descreva aqui as informações sobre o segundo requisito |
+|RNF-010 |Nome do Requisito |Descreva aqui as informações sobre o segundo requisito |
 [ [INÍCIO](#fibonacci-management-system) ]
 
 
