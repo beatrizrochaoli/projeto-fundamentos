@@ -44,7 +44,7 @@
 # RESUMO DO PROJETO
 | ITEM | DESCRIÇÃO|
 |:---|:---|
-| NOME DO PROJETO | Loja de roupas personalizadas dos personagensda marvel, AmericanStark |
+| NOME DO PROJETO | Loja de roupas personalizadas dos personagens da marvel, AmericanStark |
 | GERENTE DO PROJETO | Wagner Ferreira |
 | PRINCIPAL OBJETIVO | Auxiliar o sistema de ensino através de ferramentas síncronas e assíncronas que serão usadas por funcionários e alunos da instituição de ensino. |
 | BENEFÍCIOS ESPERADOS |* Melhor acompanhamento pedagógico;<br/>* Redução da evasão escolar;<br/>* Aumento do número de matrículas;<br/>* Redução da inadimplência escolar;<br/>* Automatização dos processos financeiross|
@@ -62,7 +62,7 @@ _** deve prover, bem como as suas restrições de operação e propriedades gera
 
 Foram usados métodos para que pudessem ser obtidos os requisitos do sistema:
   * Foram feitas reuniões entre nós 4 sobre o andamento da nossa loja.
-*   Foram feitas consultas em outros sites semlhantes ao que pretendemos fazer.
+*   Foram feitas consultas em outros sites semelhantes ao que pretendemos fazer.
   * Wagner da Silva Ferreira Filho professor do curso de Informática do Instituto Federal de Educação, Ciências e Tecnologia foi de acordo com nossa ideia de contrução de projeto, nó impulsionou e nos deu total apoio durante todo o processo;
   * Criação da logo da nossa loja, dando cara ao nosso projeto, que está ganhando forma;
 
@@ -91,7 +91,7 @@ O escopo do **AmericanStark** pode ser consultado no documento anexado no gitHub
 
 Não fazem parte do escopo do projeto:
 * Interações com outros sites semelhantes.
-* Atualições novas repentidamentes em todas as semanas.
+* Atualizações novas repentidamentes em todas as semanas.
 * Outras roupas além da qual propometemos.
 
 ## Usuários do sistema
