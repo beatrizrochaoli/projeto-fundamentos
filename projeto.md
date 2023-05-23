@@ -97,16 +97,23 @@ Não fazem parte do escopo do projeto:
 ## Usuários do sistema
 |USUÁRIO|DESCRIÇÃO|
 |:---|:---|
-|**Usuário Padrão:**|Realizam as tarefas comuns a todos os usuários, tal como: logar e enviar mensagens. Todos demais usuários estendem as funcionalidades do UsuárioPadrão|
-|**Administrador:**|Responsáveis pelo gerenciamento das entidades pertinentes à instituição e pela alocação de outros administradores|
-|**Coordenador:**|Responsáveis pela aprovação de disciplinas, turmas e matrículas realizadas pela secretaria do curso, além de ser responsável pela alocação da secretaria|
-|**Secretaria:**|Responsáveis pelo cadastramento de disciplinas e turmas, pela alocação de professores e monitores de um curso e matrículas dos alunos|
-|**Professor:**|Responsáveis pela criação do programa da disciplina através de ferramentas de planejamento e criação de atividades|
-|**Aluno:**|Seguem o programa da disciplina criada pelo professor, tendo como apoio ferramentas de comunicação, tal como: chat e fórum|
+|**Usuário Padrão:**|Clientes|
+|**Administradora Geral**|Beatriz Rocha Oliveira|
+|**Administradora Financeira:**|Da´felli Kauani Bonazzi Pinto|
+|**Desing:**|Gabrielly Vitoria Santana Miranda|
+|**Markeeting**|tamires Steffany Cardoso dos Santos Schimite|
+|**Funcionários:**| Fucionários que precisam de acesso a informações privadas, do que o normal (padrão)|
 
 ## Abrangência e sistemas similares
 
 ### Abrangência:
+
+O sistema do nosso projeto irar conter sites para clientes comprarem direto da nossa loja online, mas também teremos a opção de revender nossas roupas para as nossas lojas físicas. Nossos funionários de extrema importância e confiavéis teram acesso a dados confidenciais como 
+
+
+
+
+
 
 O sistema irá conter ferramentas para construção de um plano de aulas que esteja de acordo com os objetivos e metodologia de uma turma ministrada pelo professor. O professor através de ferramentas (como Chat, Fórum, Base de Documentos) irá montar o programa desta disciplina que deverá ser seguido pelo aluno usuário do sistema. O professor terá a liberdade de criar atividades (textos e questionários) e determinar prazos a serem cumpridos pelos alunos. Serão armazenadas as resoluções dos alunos para serem corrigidas pelo professor posteriormente, gerando estatísticas do desempenho de cada aluno e da turma. O sistema também irá prover o gerenciamento das entidades que compõem a instituição e os usuários do sistema.
 
