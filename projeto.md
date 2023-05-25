@@ -108,53 +108,53 @@ Não fazem parte do escopo do projeto:
 
 ### Abrangência:
 
-O sistema do nosso projeto irar conter sites para clientes comprarem direto da nossa loja online, mas também teremos a opção de revender nossas roupas para as nossas lojas físicas. Nossos funionários de extrema importância e confiavéis teram acesso a dados confidenciais como 
+O sistema do nosso projeto irar conter sites para clientes comprarem direto da nossa loja online, mas também teremos a opção de revender nossas roupas para as nossas lojas físicas. Nossos funionários de extrema importância e confiavéis teram acesso a dados confidenciais. Nossos clientes os de forma online teram com omadar mensagem direto para nós (chat), caso aconteça determionada incoerência e também teram acesso a preços mais em conta do que os de forma precencial por ser de forma online, eles teram prazos estimados para pagarem seus pedidos caso contrario não madaremos seus pedidos a suas respectivas residências, os pagamentos de seus produtos seram: cartão de crédito, pix e boleto. Os cliente das lojas físicas teram a vanatagem de receber seus produtos na hora em que pagarem, as formas de pagamento seram: caratão de crédito e débito, pix, e dinheiro físico. Nossos funcionários teram prazos para cumprirem suas determinadas etapas par a concepção do produto final. 
 
 
-
-
-
-
-O sistema irá conter ferramentas para construção de um plano de aulas que esteja de acordo com os objetivos e metodologia de uma turma ministrada pelo professor. O professor através de ferramentas (como Chat, Fórum, Base de Documentos) irá montar o programa desta disciplina que deverá ser seguido pelo aluno usuário do sistema. O professor terá a liberdade de criar atividades (textos e questionários) e determinar prazos a serem cumpridos pelos alunos. Serão armazenadas as resoluções dos alunos para serem corrigidas pelo professor posteriormente, gerando estatísticas do desempenho de cada aluno e da turma. O sistema também irá prover o gerenciamento das entidades que compõem a instituição e os usuários do sistema.
-
-Dentre as ferramentas de comunicação do sistema existirão as assíncronas, como Chat, onde poderão ser feitas reuniões, discussões, explicações conjuntas ou qualquer outra atividade de comunicação. O Fórum consiste na ferramenta síncrona usada para os mesmos fins do Chat.
+Teremos reuiniões semanais com os funcionários para passarmos ou recebermos demandas dos mesmos. Teremos momentos de interação com a equipe pelo menos uma vez (pode ser mais) a cada 2 meses.
 
 Das ferramentas de planejamento podemos citar:
 
-* **Avaliações e Exercícios:** serão criadas tarefas a serem entregues pelos alunos nos determinados prazos;
+* **Prazos:** Cada setor da empresa teram prazos para entregar cada andamento para a conclusão do produto final;
 
-* **Anúncios:** espaço para criação de avisos e informes aos alunos de uma determinada turma;
+* **Anúncios:** Espaço para criação de anúncios e propagandas através de redes socias em comum das pessoas, e planfetos os de forma presencial;
 
-* **Manipulação de Arquivos:** haverá um diretório onde podem ser acumulados arquivos de diversos tipos pelos usuários;
+* **Controle a faixa etária de idade:** Teremos a diretora de markeeting (a Tamires) que ficará com o cargo de mandar e entregar anúncios para uam faixa etária que consuma esse tipo de produto que venderemos;
 
-* **Planejamento de Aulas:** planejamento de uma aula estruturada com leituras e exercícios.
+* **Reuniões com a equipe chefe:** Teremos reuiniões diariamente com a equipe chefe para passarmos demandas de como deveremos prosseguir com cada setor;
 
 ### Sistemas similares:
 
-No cenário atual da universidade se encontra um sistema que é responsável por realizar tal tarefa, denominado Virtus, porém o sistema não atende todas as necessidades, não sendo considerado satisfatório pela maioria dos usuários.
+No cenário da nossa empresa se encontra um sistema que é responsável por realizar cada tarefa necessária, teremos como atender cada pessoa interrassada nos nossos produtos tanto de forma online como de forma física.
 
-No cenário nacional encontram-se três sistemas que se destacam:
+No cenário nacional encontram-se dois sistemas que se destacam:
 
-**AulaNet:** é um ambiente de software baseado na Web, desenvolvido no Laboratório de Engenharia de Software - LES - do Departamento de Informática da PUC-Rio, para administração, criação, manutenção e participação em cursos à distância.
-WebAula: é um produto formado por soluções integradas de gerenciamento de aprendizagem, conhecimento e conteúdos on-line, resultado de uma joint venture entre as empresas Zargon e Poliedro.
+**Loja dos hérois:** É uma loja tématica em só vender roupas e fantasias inspirados nos personagens da Marvel. Mais semelhante ao nossos porém não é igual também.
 
-**TelEduc:** é um ambiente para a criação, participação e administração de cursos na Web. Ele foi concebido tendo como alvo o processo de formação de professores para informática educativa, baseado na metodologia de formação contextualizada desenvolvida por pesquisadores do Nied (Núcleo de Informática Aplicada à Educação) da Unicamp.
+
+**Piticas:** São lojas físicas que vendem roupas estampadas com desenhos caracterizados com os personagens da Marvel e DC, mas somente blusas e molentos. Parecido com a nossa loja porém a gente só vendem a das Mavel.
+
 
 No cenário internacional os sistemas de maior porte são:
 
-**WebCT:** O WebCT é um programa que possibilita a criação de ambientes educacionais na Internet, desenvolvido pela University of British Columbia - Canadá. Ele permite a colocação do conteúdo de um curso na Internet pelo professor e, em seguida, o cadastro os alunos que participarão daquele curso. O objetivo principal é possibilitar a interação entre tais sujeitos através de ferramentas de trabalho em grupo, tais como: fóruns de discussão, chat, palestras on-line, além de facilitar a comunicação professor-aluno, através da publicação de notas e gabaritos de avaliações.
+**Shein:** É uima loja online que vendem roupas de vários estilos para cada gosto. Eles vendem roupas tématicas de persoangens da Marvel, em rouaps estampadas em blusas e moletons somente. Semelhante ao nossos porém não igual.
 
-**Blackboard:** é um sistema de autoria extremamente amigável, desenvolvido para ser utilizado por educadores e profissionais interessados em aplicar as novas tecnologias interativas da rede na educação, contribuindo para a metodologia de ensino presencial e potencializando o processo de ensino e aprendizagem a distância.
+
+**Shoppe:** É uma loja online também, que vende roupas estampadas de personagens da Marvel, porém vedem roupas e objetos de outros estilos também.
 
 ## Suposições e dependências
-O sistema necessita de um servidor web para sua hospedagem.
+O sistema da nossa loja conta com site atravé do google e da internet.
 
-Os usuários devem utilizar um computador com a seguinte configuração mínima:
 
-* Processador Dual Core 2GHz ou superior
-* 2Gb de memória RAM
-* 5Gb de armazenamento em disco
-* Para uso do sistema é preciso ter instalado o Java SE versão 8 e o MySql versão 8.0.28.
+
+
+
+Os cliente3s devem utilizar um computador com a seguinte configuração mínima:
+
+* Processador Dual Core 2GHz ou superior;
+* 2Gb de memória RAM;
+* 5Gb de armazenamento em disco;
+* Para uso do sistema é preciso ter instalado o Java para Web browsers.
 
 # ESTUDO DE VIABILIDADE
 
