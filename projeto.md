@@ -8,7 +8,7 @@
 |NOME|CARGO|E-MAIL|
 |:---|:---|:---|
 |Beatriz Rochha Oliveira|Gerente|beatriz.braesp@gmail.com|
-|Dafelli Kauani Bonazzi Pinto|Roterista|@dafellikauani@gmail.com|
+|Dáfelli Kauani Bonazzi Pinto|Roterista|dafellikauani@gmail.com|
 |Tamires Steffany Cardoso dos Santos Schimites|Vendedora|tamyresschimite@gmail.com|
 |Gabrielly Vitoria Santana Miranda|Desing|gabriellyvitoria5256i@gmail.com|
 
