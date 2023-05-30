@@ -7,9 +7,9 @@
 ## *Stakeholders*
 |NOME|CARGO|E-MAIL|
 |:---|:---|:---|
-|Beatriz Rochha Oliveira|Gerente|beatriz.braesp@gmail.com|
-|Dáfelli Kauani Bonazzi Pinto|Roterista|dafellikauani@gmail.com|
-|Tamires Steffany Cardoso dos Santos Schimites|Vendedora|tamyresschimite@gmail.com|
+|Beatriz Rocha Oliveira|Administradora Chefe|beatriz.braesp@gmail.com|
+|Dáfelli Kauani Bonazzi Pinto|Administradora Financeira|dafellikauani@gmail.com|
+|Tamires Steffany Cardoso dos Santos Schimites|Markeeting|tamyresschimite@gmail.com|
 |Gabrielly Vitoria Santana Miranda|Desing|gabriellyvitoria5256i@gmail.com|
 
 # Sumário
@@ -42,27 +42,32 @@
 
 
 # RESUMO DO PROJETO
-| ITEM | DESCRIÇÃO|
-|:---|:---|
-| NOME DO PROJETO | Loja de roupas personalizadas dos personagens da marvel, AmericanStark |
-| GERENTE DO PROJETO | Wagner Ferreira |
-| PRINCIPAL OBJETIVO | Auxiliar o sistema de ensino através de ferramentas síncronas e assíncronas que serão usadas por funcionários e alunos da instituição de ensino. |
-| BENEFÍCIOS ESPERADOS |* Melhor acompanhamento pedagógico;<br/>* Redução da evasão escolar;<br/>* Aumento do número de matrículas;<br/>* Redução da inadimplência escolar;<br/>* Automatização dos processos financeiross|
-| INÍCIO E TÉRMINO PREVISTOS | 14/03/2023 - 07/12/2023 |
 
-[ [INÍCIO Loja AmericanStark) ]
+
+
+
+|Loja| Loja online e física|
+|:---|:---|
+| NOME|AmericanStark |
+|Administradora Chefe| Beatriz Rocha Oliveira|
+| PRINCIPAL OBJETIVO | Desenvolver um projeto nas aulas de fundamentos utilizando ferramentas disponiveís nos computadores|
+| BENEFÍCIOS ESPERADOS |Alavancar nossas vendas no nosso site e nas nossas lojas físicas|
+| INÍCIO E TÉRMINO PREVISTOS | 14/03/2023 - 13/06/2023 |
+
 
 # INTRODUÇÃO
+Loja empresarial em desenvolvimento com o objetivo e finalidade de vender roupas e fantasias personalizadas do universo cinematrográfico da Marvel. Com tecidos importados e personalizados com nossos desingrs e fabricados com nossa própria mão de obra. Queremos trazer por meio desse projeto nosso olhar desbravador e criativo nesse meio do comercio industrial.
+
 
 ## PROPÓSITO DESTE DOCUMENTO
 
-Este documento é destinado a avalição do professor sobre nossa evolução enquanto grupo. O propósito deste documento é apresentar a descrição dos serviços e funções que o sistema **_AmericanStark
-_** deve prover, bem como as suas restrições de operação e propriedades gerais, a fim de documetar uma descrição detalhada do sistema para um crescimento das etapas de análise do projeto. O documento especifica todos os requisitos funcionais e não funcionais do sistema.
+Este documento é destinado a avalição do professor sobre nossa evolução enquanto grupo. O propósito deste documento é apresentar a descrição dos serviços e funções que o sistema da nossa loja ficticia AmericanStark.
+
 ## CONCEPÇÃO DO SISTEMA
 
 Foram usados métodos para que pudessem ser obtidos os requisitos do sistema:
   * Foram feitas reuniões entre nós 4 sobre o andamento da nossa loja.
-*   Foram feitas consultas em outros sites semelhantes ao que pretendemos fazer.
+  * Foram feitas consultas em outros sites semelhantes ao que pretendemos fazer.
   * Wagner da Silva Ferreira Filho professor do curso de Informática do Instituto Federal de Educação, Ciências e Tecnologia foi de acordo com nossa ideia de contrução de projeto, nó impulsionou e nos deu total apoio durante todo o processo;
   * Criação da logo da nossa loja, dando cara ao nosso projeto, que está ganhando forma;
 
@@ -71,8 +76,9 @@ Foram usados métodos para que pudessem ser obtidos os requisitos do sistema:
 *Para evitar interpretações incorretas deste documento, algumas convenções e termos específicos são descritos a seguir:
 
 * Utilizamos o AVA Ambiente Virtual de Aprendizagem como instrutor de passos a serem seguidos na matéria de Fundamentos de Ánalise;
-* Moodle: Ambiente Virtual que hospedará os cursos oferecidos
-
+* Moodle: Ambiente Virtual que hospedará os cursos oferecidos;
+* Github: Utilizado para commit no nosso escop do nosso documento;
+* Figma: Para a criação do prototipo  do nosso site.
 
 [ [INÍCIO](#fibonacci-management-system) ]
 
@@ -82,17 +88,17 @@ Foram usados métodos para que pudessem ser obtidos os requisitos do sistema:
 
 ### NO ESCOPO
 
-O projeto desse grupo é nos colocar dentro do mercado de trabalho em quanto empresa de fabricação de roupas a todas as pessoas, as que moram na nossa cidade e as que moram fora dela também. Temos como visão proporcionar enteração de grupo de pessoas que tem interesses comuns em filmes da marvel.
+O projeto desse grupo é nos colocar dentro do mercado de trabalho enquanto empresa de fabricação de roupas a todas as pessoas, as que moram na nossa cidade e as que moram fora dela também. Temos como visão proporcionar enteração de grupo de pessoas que tem interesses comuns nesse universo cinematrográfico da marvel.
 
 O escopo do **AmericanStark** pode ser consultado no documento anexado no gitHub.
 
 
 ### FORA DO ESCOPO
 
-Não fazem parte do escopo do projeto:
-* Interações com outros sites semelhantes.
-* Atualizações novas repentidamentes em todas as semanas.
-* Outras roupas além da qual propometemos.
+ Não fazem parte do escopo do projeto:
+* Interações com outros sites semelhantes;
+* Atualizações novas repentidamentes em todas as semanas;
+* Outras roupas além da qual prometemos.
 
 ## Usuários do sistema
 |USUÁRIO|DESCRIÇÃO|
@@ -100,18 +106,18 @@ Não fazem parte do escopo do projeto:
 |**Usuário Padrão:**|Clientes|
 |**Administradora Geral**|Beatriz Rocha Oliveira|
 |**Administradora Financeira:**|Dáfelli Kauani Bonazzi Pinto|
-|**Desing:**|Gabrielly Vitoria Santana Miranda|
-|**Markeeting**|Tamires Steffany Cardoso dos Santos Schimite|
+|**Designer:**|Gabrielly Vitoria Santana Miranda|
+|**Marketing**|Tamires Steffany Cardoso dos Santos Schimite|
 |**Funcionários:**| Fucionários que precisam de acesso a informações privadas, do que o normal (padrão)|
 
 ## Abrangência e sistemas similares
 
 ### Abrangência:
 
-O sistema do nosso projeto irar conter sites para clientes comprarem direto da nossa loja online, mas também teremos a opção de revender nossas roupas para as nossas lojas físicas. Nossos funionários de extrema importância e confiavéis teram acesso a dados confidenciais. Nossos clientes os de forma online teram com omadar mensagem direto para nós (chat), caso aconteça determionada incoerência e também teram acesso a preços mais em conta do que os de forma precencial por ser de forma online, eles teram prazos estimados para pagarem seus pedidos caso contrario não madaremos seus pedidos a suas respectivas residências, os pagamentos de seus produtos seram: cartão de crédito, pix e boleto. Os cliente das lojas físicas teram a vanatagem de receber seus produtos na hora em que pagarem, as formas de pagamento seram: caratão de crédito e débito, pix, e dinheiro físico. Nossos funcionários teram prazos para cumprirem suas determinadas etapas par a concepção do produto final. 
+O sistema do nosso projeto irá conter sites para clientes comprarem direto da nossa loja online, mas também teremos a opção de revender nossas roupas para as nossas lojas físicas. Nossos funionários de extrema importância e confiavéis teram acesso a dados confidenciais. Nossos clientes os de forma online teram como madar mensagem direto para nós (chat),caso aconteça determionada incoerência e também teram acesso a preços mais em conta do que os de forma precencial por ser de forma online, eles teram prazos estimados para pagarem seus pedidos caso contrario não madaremos seus pedidos a suas respectivas residências, os pagamentos de seus produtos seram: cartão de crédito, pix e boleto. Os cliente das lojas físicas teram a vanatagem de receber seus produtos na hora em que pagarem, as formas de pagamento seram: cartão de crédito e débito, pix, e dinheiro físico. Nossos funcionários teram prazos para cumprirem suas determinadas etapas para a concepção do produto final. 
 
 
-Teremos reuiniões semanais com os funcionários para passarmos ou recebermos demandas dos mesmos. Teremos momentos de interação com a equipe pelo menos uma vez (pode ser mais) a cada 2 meses.
+Teremos reuiniões semanais com os funcionários para passarmos ou recebermos demandas dos mesmos. Ex: A cada semana 2 reuniões no mínimo. Teremos momentos de interação com a equipe pelo menos uma vez (pode ser mais) a cada 2 meses.
 
 Das ferramentas de planejamento podemos citar:
 
@@ -125,7 +131,7 @@ Das ferramentas de planejamento podemos citar:
 
 ### Sistemas similares:
 
-No cenário da nossa empresa se encontra um sistema que é responsável por realizar cada tarefa necessária, teremos como atender cada pessoa interrassada nos nossos produtos tanto de forma online como de forma física.
+No cenário da nossa empresa se encontra um sistema que é responsável por realizar cada tarefa necessária, teremos como atender cada pessoa interassada nos nossos produtos tanto de forma online como de forma física.
 
 No cenário nacional encontram-se dois sistemas que se destacam:
 
@@ -137,7 +143,7 @@ No cenário nacional encontram-se dois sistemas que se destacam:
 
 No cenário internacional os sistemas de maior porte são:
 
-**Shein:** É uima loja online que vendem roupas de vários estilos para cada gosto. Eles vendem roupas tématicas de persoangens da Marvel, em rouaps estampadas em blusas e moletons somente. Semelhante ao nossos porém não igual.
+**Shein:** É uima loja online que vendem roupas de vários estilos para cada gosto. Eles vendem roupas tématicas de persoangens da Marvel, em roupas estampadas em blusas e moletons somente. Semelhante ao nossos porém não igual.
 
 
 **Shoppe:** É uma loja online também, que vende roupas estampadas de personagens da Marvel, porém vedem roupas e objetos de outros estilos também.
@@ -145,11 +151,7 @@ No cenário internacional os sistemas de maior porte são:
 ## Suposições e dependências
 O sistema da nossa loja conta com site atravé do google e da internet.
 
-
-
-
-
-Os cliente3s devem utilizar um computador com a seguinte configuração mínima:
+Os clientes devem utilizar um computador com a seguinte configuração mínima:
 
 * Processador Dual Core 2GHz ou superior;
 * 2Gb de memória RAM;
@@ -189,25 +191,25 @@ A tabela a seguir contém a relação dos Requisitos Funcionais elicitados, com 
 
 | IDENTIFICADOR | NOME | DESCRIÇÃO |
 :---|:---|:---|
-|RF-001 |Comercializar nossas roupas |Pretendemos vender nossas roupas com personagens da Marvel, pretendemos vender blusas, moletons e etc|
-|RF-002 |Expandir as vendas para todo lugar no Brasil |Queremos expandir para todo o Brasil nossa sroupas utilizando meios de transportes viavéis|
-|RF-003 |Fazer marketing para alavancar nossas vendas |Através de anúncios e propagandas queremos entregar, para um maior público tanto de forma presencial, quanto online|
+|RF-001 |Comercializar nossas roupas |Pretendemos vender nossas roupas com personagens da Marvel. Sendo blusas, moletons e etc|
+|RF-002 |Expandir as vendas para todo lugar do Brasil |Queremos expandir para todo o Brasil nossa sroupas utilizando meios de transportes viavéis|
+|RF-003 |Fazer marketing para alavancar nossas vendas |Através de anúncios e propagandas queremos entregar para um maior público tanto de forma presencial, quanto online|
 |RF-004 |Produzir e caracterizar designers |Queremos fazer nossas próprias roupas de maneira autoral|
-|RF-005 |Importar tecidos |Queremos vender nossas roupas para fora da nossa cidade e estado, queremos comercializar de forma geral, para alcançar todo o país|
+|RF-005 |Exportar tecidos |Queremos vender nossas roupas para fora da nossa cidade e estado, queremos comercializar de forma geral, para alcançar todo o país|
 |RF-006 |Alavancar nosso site em diversas plataformas |Temos com um objetivo vender nossos produtos de (os forma online) na Shoope, Aliexpress, Americanas, Submarino, Mercado Livre e shein|
-|RF-007 |Cadastrar funcionários |Como nossa empresa será uma empresa de grande porte, temos que contratar vários funcionários e para isso teremos que ter seus dados cadastrados na nossa loja| 
-|RF-008 |Ter um cadastro geral dos clientes |Devemos ter um cadastro guardando todas as informções do cliente que fizer compra, em nossas lojas virtuais|
-|RF-009 |Cadastrar tecidos|Teremos que ter um cadastro de tecidos, porque naõ iremos fabrica - los, mas importa -los de outro lugar|
+|RF-007 |Cadastrar funcionários |Como nossa empresa será uma empresa de grande porte, temos que contratar vários funcionários, e para isso teremos que ter seus dados cadastrados na nossa loja| 
+|RF-008 |Ter um cadastro geral dos clientes |Devemos ter um cadastro guardando todas as informções do cliente que fizeram a compra, em nossas lojas virtuais|
+|RF-009 |Cadastrar tecidos|Teremos que ter um cadastro de tecidos, porque não iremos fabrica-los, mas importa-los de outro lugar|
 |RF-010 |Criar códigos de barra|Como cada item tem sua própria codificação, também teremos que criar códigos próprios para cada roupa|
-|RF-011 |Ter o controle de roupas prontas |Teremos que saber a quantidade de roupas ja fabricadas, para sabermos quanto que ainda teremos que fazer e para outros fins também|
+|RF-011 |Ter o controle de roupas prontas |Teremos que saber a quantidade de roupas ja fabricadas, para sabermos quanto que ainda teremos que fazer para vendas e para outros fins também|
 |RF-012 |Cadastrar e fazer controle dos transportes no Brasil |Queremos cadastrar as empresas que farão os trasportes e envios tanto das lojas presenciais quanto para os que serão entregues direto para os clientes e assim ter um controle desses|
-|RF-013 |Cadastrar e fazer controle de importação de tecidos ( transporte aereos)|Como importaremos nosso tecidos, teremos que ter os dados deles, tanto os dados da empresa área que for trazer|
-|RF-014 |Controlar e mapear as entregas dos nossos produtos Como iremos entregar nossos produtos (os de forma online) direto pra os clientes teremos que ter o mapeamento e controle das rotas para cada lugar pra saber como está indo o andamentos das entregas|
+|RF-013 |Cadastrar e fazer controle de importação de tecidos ( transporte áereos )|Como importaremos nosso tecidos, teremos que ter os dados deles, tanto os dados da empresa área que for trazer|
+|RF-014 |Controlar e mapear as entregas dos nossos produtos| Como iremos entregar nossos produtos (os de forma online) direto pra os clientes teremos que ter o mapeamento e controle das rotas para cada lugar pra saber como está indo o andamentos das entregas|
 |RF-015 |Controlar férias e remuneração dos funcionários |Teremos que ter os dados de cada funicinário para sabermos de suas férias e caso alguns deles fizerem horas extras terem suas remunerações corretas|
 |RF-016 |Comprar materiais necessários |Teremos que saber o que tem e o que precisa ser comprado para a manuntenção da produção das roupas e da fábrica|
-|RF-017 |Controlar e administrar o financeiro da loja/empresa|Teremos que ter o controle para podermos para administrar nossa empresa de forma certa esegura e honesta. Saber o que sai e o que entra, etc|
+|RF-017 |Controlar e administrar o financeiro da loja/empresa|Teremos que ter o controle para podermos administrar nossa empresa de forma certa, segura e honesta. Saber o que sai e o que entra, etc|
 |RF-018 |Proporcionar estágios |Queremos ter um prjeto que possibilita estágios, para as pessoas que estiverem interessadas|
-|RF-019 |Proporcionar projetos de interação da equipe(toda) |Queremos poder proporcionar momentos de comunhão com toda a equipe envolvida|
+|RF-019 |Proporcionar projetos de interação da equipe(toda) |Queremos poder proporcionar momentos de comunhão com toda a equipe envolvida, como reuniões etc|
 |RF-020 |Formas de pagamento|Tanto as lojas presenciais, tanto as onlines queremos poder oferecer todos os tipos viavéis de pagamento sendo eles: cartão de crédito e débito, pix, boleto ou á vista também|
 
 
@@ -225,18 +227,18 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 
 | IDENTIFICADOR | NOME | DESCRIÇÃO |
 |:---|:---|:---|
-RNF-001|Finalizar o pagamento|O usuário só pode comprar os produtos se ele colocar todos os dados dele de cadastro|
-RNF-002|Devolução|A nossa empresa só poderá fazer a devolução após a data da entrega e o usuário cadastrar os seus dados|
+RNF-001|Finalizar o pagamento|O usuário só pode comprar os produtos se ele colocar todos os dados de cadastramento|
+RNF-002|Devolução|A nossa empresa só poderá fazer a devolução após a data da entrega e se o usuário cadastrar os seus dados|
 RNF-003|Entregar|Só poderemos entregar o produto depois que o pagamento for aprovado|
-RNF-004|Tranporte de entrega de tecidos|Nossos  transportadores só serão mandado para a entrega  depois do tecido estar no porto de retirada|
+RNF-004|Tranporte de entrega de tecidos|Nossos  transportadores só serão mandado para a entrega depois do tecido estar no porto de retirada|
 RNF-005|Forma de pagamento|A compra só poderá ser finalizada depois de o cliente selecionar a forma de pagamento|
 RNF-006|Selecionar o produto|Só poderá ir para o carrinho depois de selecionar o produto|
 RNF-007|Desenvolvimento do produto|Somente os funcionários poderão ter acesso aos designers das roupas depois delas estarem garimpadas com os seus desenhos|
-RNF-008|Contrato dos funcionários|Os vendedores só terão férias depois de um ano de contrato concluído |
+RNF-008|Contrato dos funcionários|Os vendedores só terão férias depois de um ano de contrato concluído|
 RNF-009|Indentificação dos produtos |Os vendedores só poderão vender as roupas depois de elas estarem codificadas e etiquetadas|
-RNF-010|Material de estoque|Só poderemos vender se tivermos a roupa e o tecido no estoque|
+RNF-010|Material de estoque|Só poderemos vender, se tivermos a roupa e o tecido no estoque|
 
-[ [INÍCIO](#fibonacci-management-system) ]
+
 
 
 # Prototipagem
