@@ -99,9 +99,9 @@ Não fazem parte do escopo do projeto:
 |:---|:---|
 |**Usuário Padrão:**|Clientes|
 |**Administradora Geral**|Beatriz Rocha Oliveira|
-|**Administradora Financeira:**|Da´felli Kauani Bonazzi Pinto|
+|**Administradora Financeira:**|Dáfelli Kauani Bonazzi Pinto|
 |**Desing:**|Gabrielly Vitoria Santana Miranda|
-|**Markeeting**|tamires Steffany Cardoso dos Santos Schimite|
+|**Markeeting**|Tamires Steffany Cardoso dos Santos Schimite|
 |**Funcionários:**| Fucionários que precisam de acesso a informações privadas, do que o normal (padrão)|
 
 ## Abrangência e sistemas similares
