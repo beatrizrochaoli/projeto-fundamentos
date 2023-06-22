@@ -247,6 +247,14 @@ RNF-010|Material de estoque|Só poderemos vender, se tivermos a roupa e o tecido
 
 ![Imagem do Protótipo](/img/home.png)
 
+![Alt text](<Frame 2.png>)
+![Alt text](<Frame 3.png>)
+![Alt text](<Frame 6.png>)
+![Alt text](<Frame 5.png>)
+![Alt text](<Frame 9.png>)
+![Alt text](<Frame 8.png>)
+![Alt text](<Frame 7.png>)
+
 [ [INÍCIO](#fibonacci-management-system) ]
 
 
