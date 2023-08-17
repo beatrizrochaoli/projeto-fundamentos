@@ -261,31 +261,31 @@ RNF-010|Material de estoque|Só poderemos vender, se tivermos a roupa e o tecido
 # Diagrama de Casos de Uso
 
 
-![Diagrama de Casos de Uso](/img/use_case_placas.png)
+![Diagrama de Casos de Uso](UltimaAmericanStark.png)
 
 ## Descrição / Especificação dos Casos de Uso
 
-### UC-01 - Cadastrar Professor
+### UC-01 - Comercializar roupas
 
-|UC-01 - Cadastrar Professor|           
+|UC-01 - Comercializar roupas|           
 |:---|
-|**Descrição/Objetivo:** Permite a inclusão de novos professores no Sistema|
-|**Atores: Administrador**|
-|**Pré-condições:** O usuário precisa estar cadastrado e logado|
-|**Pós-condições:** Será apresentada uma mensagem confirmando a realização do cadastro|
+|**Descrição/Objetivo:** Permite que nós possamos vender roupas|
+|**Atores: Marketing**|
+|**Pré-condições:** Que tenhamos todos os outros parâmetros concluidos, inclusive divulgar as roupas|
+|**Pós-condições:** O usário poder acessar todas as roupas em catálogo disponíveis|
 |**FLUXO PRINCIPAL / BÁSICO:**|
-|1. O usuário seleciona a opção cadastrar professor|
-|2. Os dados do professor são inseridos|
-|3. O usuário clica em salvar|
-|4. Um novo ID é gerado |
-|5. É apresentada uma mensagem confirmando a realização do cadastro|
+|1. O marhketing lançar as roupas no sistema |
+|2. |Só poderá comercializar depois de todos os passos de produções de roupas forem cumpridas
+|3. O usuário poder visualizar e comprar|
+|4. Um novno produto(roupa) é adicionado|
+|5. É isibido na classificação de roupas mais um produto ex: feminino, masculino, infantil etc|
 |**FLUXOS ALTERNATIVOS / EXCESSÕES:** |
-|**A1: Campo obrigatório não preenchido** |
-|1. Uma mensagem será apresentada para o usuário, informando que existe(m) campos obrigatórios que não foram preenchidos |
-|2. O cursor será posicionado no primeiro campo obrigatório que não foi preenchido |
-|**A2: Data de nascimento inválida** |
-|1. Uma mensagem será apresentada para o usuário, informando que a data informáda não é válida|
-|2. O cursor será posicionado para o campo data|
+|**A1: Visualizaçaõ de peça nova** |
+|1. Uma mensagem será isibida com marcação de NOVO nela mesma(roupa).|
+|2. Terá prioridade na tela inicial do site|
+|**A2: ** |
+|1. Uma marcação de nova peça será apresentada para o usuário na tela inicial|
+|2. O usuário poderá selecionar aquela roupa ao carrinho ou finalizar a compra direto passando por todos os outros campos obrigatórios.|
 
 
 ## Matriz de Rastreabilidade
