@@ -300,7 +300,7 @@ RNF-010|Material de estoque|Só poderemos vender, se tivermos a roupa e o tecido
 
 # Diagrama de Classes
 
-[ [INÍCIO](#fibonacci-management-system) ]
+[ [INÍCIO](img/UltimooDiagram.png) ]
 
 # Diagrama de Sequências
 
