@@ -166,8 +166,8 @@ Uma vez definidos a necessidade para o sistema e seus requisitos de negócio, é
 De acordo com nossa analise, nosso projeto tem grande chances de ter um ótimo desempenho.Temos profissionais abilidosos e qualificados para resolver qualquer possível problema que surgir. De ínicio não vimos a nessecidade de ter mais que um técnico em informática no sistema, porém ao decorrer do projeto vimos o quanto os mínimos detalhes importam e que inclusive podem dar erro, então vimos a necessidade de ter mais proficionais qualificados e abilidosos que entendem dessas tecnólogias com autoridade no método escolhido e do tamanho do enfoque que teremos nas regiões do Brasil e também no mercado lá fora, superando estimativas de mais de 15.000 usuário/cliente. Eles saberem lidar com erros e resolve-lós em conjunto.
 
 ## Viabilidade Econômica
+Com o nosso nicho de mercado atual sendo vendas de roupas caracterizada com as estampas dos personagens da Marvel de alta qualidade, criamos um site de comércio virtual para vendas detalhadas dos produtos de forma fácil e rápida de pagamento. Ao todo foi feito uma análise de custo-benefício, analisando os investimentos e os benefícios como também o retorno. Chegando a conclusão de que foi possível e sucessivél economicamente a loja. Espera-se melhorias no site, no atual serviço e nos produtos para gerar um retorno maior ainda futuramente.
 
-Foi realizada uma análise de custo-benefício, e, mesmo com estimativas conservadoras do retorno sobre o investimento e dos benefícios totais, este projeto é viável economicamente. Após a implantação, espera-se uma melhoria na qualidade dos serviços prestados e aumento da capacidade de vagas da unidade escolar.
 
 ## Viabilidade Organizacional
 
