@@ -195,7 +195,7 @@ A tabela a seguir contém a relação dos Requisitos Funcionais elicitados, com 
 |RF-002 |Expandir as vendas para todo lugar do Brasil |Queremos expandir para todo o Brasil nossa sroupas utilizando meios de transportes viavéis|
 |RF-003 |Fazer marketing para alavancar nossas vendas |Através de anúncios e propagandas queremos entregar para um maior público tanto de forma presencial, quanto online|
 |RF-004 |Produzir e caracterizar designers |Queremos fazer nossas próprias roupas de maneira autoral|
-|RF-005 |Exportar tecidos |Queremos vender nossas roupas para fora da nossa cidade e estado, queremos comercializar de forma geral, para alcançar todo o país|
+|RF-005 |Importar tecidos |Queremos vender nossas roupas para fora da nossa cidade e estado, queremos comercializar de forma geral, para alcançar todo o país|
 |RF-006 |Alavancar nosso site em diversas plataformas |Temos com um objetivo vender nossos produtos de (os forma online) na Shoope, Aliexpress, Americanas, Submarino, Mercado Livre e shein|
 |RF-007 |Cadastrar funcionários |Como nossa empresa será uma empresa de grande porte, temos que contratar vários funcionários, e para isso teremos que ter seus dados cadastrados na nossa loja| 
 |RF-008 |Ter um cadastro geral dos clientes |Devemos ter um cadastro guardando todas as informções do cliente que fizeram a compra, em nossas lojas virtuais|
@@ -291,10 +291,30 @@ RNF-010|Material de estoque|Só poderemos vender, se tivermos a roupa e o tecido
 ## Matriz de Rastreabilidade
 
 
-| REQUISITO |UC-01|UC-02|UC-03|UC-04|UC-05|UC-06|UC-07|UC-08|UC-09| UC-10|     
+| REQUISITO |UC- Importar Tecidos|UC- Cadastrar Tecidos|UC- Controlar produção e sáda de roupas|UC- Produzir Desing|UC- Fazer Roupas|UC- Divulgar Roupas|UC- Comercializar Roupas|UC- Cadastrar Cliente|UC- Consultar Conta| UC- Finalizar Compra| UC- Forma de pagamento| UC- Cartão de Crédito| UC- Cartão de Débito| UC- Pix| UC- Escolher endereço|    
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
-|RF-001|X| | | | | | | | | |
-|RF-002| |X| |X| | | | | | |
+|RF-001| | | | | | | |X| | | | | | | |
+|RF-002| | | | | | | | | | | | | | | |
+|RF-003| | | | | |X| | | | | | | | | |
+|RF-003| | | | | |X| | | | | | | | | |
+|RF-004| | | |X| | | | | | | | | | | |
+|RF-005|X| | | | | | | | | | | | | | |
+|RF-006|X| | | | | | | | | | | | | | |
+|RF-007|X| | | | | | | | | | | | | | |
+|RF-008|X| | | | | | |X| | | | | | | |
+|RF-009| |X| | | | | | | | | | | | | |
+|RF-010|X| | | | | | | | | | | | | | |
+|RF-011| | |X| |X| | | | | | | | | | |
+|RF-012|X| | | | | | | | | | | | | | |
+|RF-013|X| | | | | | | | | | | | | | |
+|RF-014|X| | | | | | | | | | | | | | |
+|RF-015|X| | | | | | | | | | | | | | |
+|RF-016|X| | | | | | | | | | | | | | |
+|RF-017|X| | | | | | | | | | | | | | |
+|RF-018|X| | | | | | | | | | | | | | |
+|RF-019|X| | | | | | | | | | | | | | |
+|RF-020|X| | | | | | | | | | | | | | |
+
 
 [ [INÍCIO](#fibonacci-management-system) ]
 
