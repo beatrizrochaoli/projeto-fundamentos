@@ -168,11 +168,10 @@ De acordo com nossa analise, nosso projeto tem grande chances de ter um ótimo d
 ## Viabilidade Econômica
 Com o nosso nicho de mercado atual sendo vendas de roupas caracterizada com as estampas dos personagens da Marvel de alta qualidade, criamos um site de comércio virtual para vendas detalhadas dos produtos de forma fácil e rápida de pagamento. Ao todo foi feito uma análise de custo-benefício, analisando os investimentos e os benefícios como também o retorno. Chegando a conclusão de que foi possível e sucessivél economicamente a loja. Espera-se melhorias no site, no atual serviço e nos produtos para gerar um retorno maior ainda futuramente.
 
-
 ## Viabilidade Organizacional
+Escolhemos a metodologia RUP, mais conhecida como Rational Unified Process (processo unificado) sendo uma metodologia agil, tem como principais caracteristicas ser incremental e interativo, o software é construido e entregue em pedaços constituindo um conjunto de funcionabilidades completas, tendo quatro fases. São elas: Concepção, Elaboração, Construção, Transição, permitindo maior colaboração e rendimento da parte tecnica. o RUP também apresenta atividades logicas chamadas de "diciplinas" que permitem melhor aprimoração ao meio social trazendo mais eficácia e confiança a nossos colaboradores e clientes, como: teste, analise e design, gerenciamento de configuração e mudança, requisitos, implementação, entre outras diciplinas de organização. o RUP tem como objetivo de garantir a produção de software de alta qualidade que atinja as necessidades dos usuarios, produtividade no desenvolvimento dentro de custos, prazos e qualidades, estimativa de prazos e custos com maior precisão.
 
-Do ponto de vista organizacional, este projeto apresenta baixo risco. Os diretores e coordenadores da instituição demonstram forte interesse no projeto. Espera-se que os professores e alunos aprovem a implantação do sistema, visto que atualmente a escola não possui uma ferramenta específica para o controle das informações, o que está provocando enormes transtornos para a instituição.
-
+ 
 
 [ [INÍCIO](#fibonacci-management-system) ]
 
