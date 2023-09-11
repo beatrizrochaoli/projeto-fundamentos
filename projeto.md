@@ -163,7 +163,7 @@ Os clientes devem utilizar um computador com a seguinte configuração mínima:
 Uma vez definidos a necessidade para o sistema e seus requisitos de negócio, é possível compreender melhor o projeto do sistema proposto para elaborar o estudo de viabilidade com os seguintes destaques:
 
 ## Viabilidade Técnica
-Os colaboradores da empresa contratante possuem bastante experiência com aplicações desta natureza, os analistas também estão familiarizados com esta área de aplicação comercial, porém o sistema utiliza uma tecnologia nova, com a qual os analistas e programadores não estão familiarizados. No que se refere ao tamanho do sistema, trata-se de um projeto de médio porte, com baixo nível de complexidade, que não será integrado a outros sistemas, limitando-se a atender a demanda da escola no que se refere à EaD, que, atualmente possui 1.000 alunos matriculados. Conclui-se que o projeto possui viabilidade técnica, em virtude dos baixos riscos identificados.
+De acordo com nossa analise, nosso projeto tem grande chances de ter um ótimo desempenho.Temos profissionais abilidosos e qualificados para resolver qualquer possível problema que surgir. De ínicio não vimos a nessecidade de ter mais que um técnico em informática no sistema, porém ao decorrer do projeto vimos o quanto os mínimos detalhes importam e que inclusive podem dar erro, então vimos a necessidade de ter mais proficionais qualificados e abilidosos que entendem dessas tecnólogias com autoridade no método escolhido e do tamanho do enfoque que teremos nas regiões do Brasil e também no mercado lá fora, superando estimativas de mais de 15.000 usuário/cliente. Eles saberem lidar com erros e resolve-lós em conjunto.
 
 ## Viabilidade Econômica
 
