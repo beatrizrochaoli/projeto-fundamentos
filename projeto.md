@@ -325,10 +325,9 @@ RNF-010|Material de estoque|Só poderemos vender, se tivermos a roupa e o tecido
 
 # Diagrama de Sequências
 
-![Diagrama de Classes ](img/Cadastro.png)
-![Diagrama de Classes ](img/Trabalho fundamentos.jpg)
-
-[ [INÍCIO](#fibonacci-management-system) ]
+![Diagrama de sequência do caso de uso Cadastrar Cliente ](img/Cadastro.png)
+![Diagrama de sequência do caso de uso Forma de pagamento ](img/Trabalho fundamentos.jpg)
+![Diagrama de sequência do caso de uso Importar Tecido ](img/ImportarTecidosDiagramaDeSequencia.png)
 [ [INÍCIO](#fibonacci-management-system) ]
 [ [INÍCIO](#fibonacci-management-system) ]
 [ [INÍCIO](#fibonacci-management-system) ]
