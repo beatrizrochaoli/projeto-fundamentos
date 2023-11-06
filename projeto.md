@@ -333,7 +333,7 @@ RNF-010|Material de estoque|Só poderemos vender, se tivermos a roupa e o tecido
 [INÍCIO](#fibonacci-management-system) 
 
 # Diagrama de Atividades
-
+![Diagrama de sequência de todos os requisistos](img/ActivityTtrabalhoGrupo.png)
 
 # REFERÊNCIAS
 
