@@ -326,7 +326,7 @@ RNF-010|Material de estoque|Só poderemos vender, se tivermos a roupa e o tecido
 # Diagrama de Sequências
 
 ![Diagrama de sequência do caso de uso Importar Tecido ](ImportarTecidosDiagramaDeSequencia.png)
-![Diagrama de sequência do caso de uso Cadastrar Tecido ](beatrizrochaoli/projeto-fundamentos/img/CadastrarTecido.png)
+![Diagrama de sequência do caso de uso Cadastrar Tecido ](img/CadastrarTecido.png)
 ![Diagrama de sequência do caso de uso Cadastrar Cliente ](img/Cadastro.png)
 ![Diagrama de sequência do caso de uso Divulgar Roupas ](img/Dadaroupas.png)
 ![Diagrama de sequência do caso de uso Forma de pagamento ](img/trabalhodeFundamentos.png)
